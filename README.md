@@ -1,10 +1,9 @@
-- 👋 Hi, I’m David
-- 👀 I’m interested in making apps, web apps, games, etc.
-- 🌱 I’m currently learning javascript and C++
+
+DHsoftware open source main repository
 
 ---------------------------------------------
 
-- 📫 davidhsve@gmail.com or https://dhsoftware.42web.io/contact
+- 📫 contacto@dh-sw.net or https://inicio.dh-sw.net/contact
 
 <!---
 DHsoftw/DHsoftw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
